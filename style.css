@@ -1,0 +1,31 @@
+h1 {
+  color: #722528;
+	font-size: 30px;
+	font-family: Andalus;
+}
+h2 {
+  color: #722528;
+	font-size: 20px;
+	font-family: Andalus;
+}
+h3 {
+  color: #D58936;
+	font-size: 20px;
+	font-family: Andalus;
+}
+body {
+  color: #82735C;     
+	background-color: #FFFFEA;
+}
+a {
+  color: #D58936;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #E1CA96;
+  text-decoration: none;
+}
+.image-circle {
+  border-radius: 50%;
+}
